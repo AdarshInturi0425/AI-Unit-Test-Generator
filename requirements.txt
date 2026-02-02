@@ -1,0 +1,5 @@
+# AI-Unit-Test-Generator Dependencies
+# Install with: pip install -r requirements.txt
+
+# Google Generative AI SDK (Gemini API)
+# Provides access to Gemini 3 Flash for test generation and code healinggoogle-genai>=0.3.0

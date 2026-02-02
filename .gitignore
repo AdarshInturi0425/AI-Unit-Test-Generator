@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (CRUCIAL!)
+.env
+.env.local
+*.key
+
+# Tests and Coverage
+htmlcov/
+.coverage
+.pytest_cache/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# Virtual environments
+venv/
+env/
+ENV/
